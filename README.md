@@ -9,3 +9,6 @@ explore the work in StarGAN_v2_celeb_face_synthesizer.ipynb. StarGAN v2, the ima
 
 RESULT:
 Our results showed that Distinct facial features such as strong jawlines and lips were propagated across different genders and skin tones into the generated/output images. For faces like The Weeknd’s that have undergone facial modifications (e.g. plastic surgery) We noticed these features also remained distinct in the generated images. However the generated images weren’t so realistic As expected, high-level features such as hairstyle, makeup, beard and skintone are followed from the reference images. However other features such as tattoos seemed to be preserved from the source image Similarly, The model preserved the pose and identity of the source images in most output images
+
+
+![Alt text](https://github.com/bikashbanjaraa/style_transfer-using-GAN/raw/main/stargan-result/reference.jpg)
